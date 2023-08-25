@@ -1,7 +1,6 @@
 # Click Counter
 
-This thrilling site should count the number of times the user has clicked the button. It will require a new tricks in JavaScript that you might not have seen before.
-
+This site should count the number of times the user has clicked the button.
 
 ## Instructions
 
@@ -22,8 +21,6 @@ document.querySelector('h2').textContent = "something"
 
 When you run the site, the button should make the number go up.
 
-**Notes:**
-* we haven't talked much about variables, but they are really cool for keeping track of a value that changes over time, like the count of how many times the button has been clicked
 
 ## Extension
 
