@@ -1,0 +1,19 @@
+div {
+  text-align: center;
+  margin: auto;
+  max-width: 300px;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  background-color: lightcyan;
+  height: 400px;
+}
+
+img {
+  width: 300px;
+  margin: 20px 0;
+}
+
+button {
+  padding: 5px;
+}

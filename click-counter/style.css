@@ -1,0 +1,20 @@
+body {
+  text-align: center;
+  font-family: monospace;
+  color: #275a86;
+  background-color: #b7ffe7;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+h2 {
+  font-size: 50px;
+}
+
+button {
+  font-family: monospace;
+  font-size: 32px;
+  padding: 0.5em;
+}
